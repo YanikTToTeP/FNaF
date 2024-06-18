@@ -1,7 +1,5 @@
 from pygame import *
 
-
-
 font.init()
 mw = display.set_mode((1280,720))
 display.set_caption('FNaF')
